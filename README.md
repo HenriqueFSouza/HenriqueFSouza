@@ -12,4 +12,8 @@
 
 <h3> Connect with me:</h3>
 
+<<<<<<< HEAD
 <img src="./assets/Insta.png" href="https://www.instagram.com/szhenrique0/" alt="My Instagram account" width="430"> 
+=======
+<img src="./assets/Insta.png" href="https://www.instagram.com/szhenrique0/" alt="My Instagram account" width="430"> 
+>>>>>>> 8850b9fbf49addc7faef2767188db204854f6a47
