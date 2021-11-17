@@ -12,6 +12,6 @@
 
 <h3> Connect with me:</h3>
 
-
-<img src="./assets/Insta.png" href="https://www.instagram.com/szhenrique0/" alt="My Instagram account" width="100px">
+<a href="https://www.instagram.com/szhenrique0/" alt="Instagram >
+                                                      <img src="./assets/Insta.png"  alt="My Instagram account" width="100px"> </a> 
 
