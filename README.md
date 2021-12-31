@@ -13,11 +13,11 @@ This place is where a spend most of my routine time coding, studying and buildin
 
 ##
 
-[![Henreact](https://github-readme-stats.vercel.app/api/top-langs/?username=Henreact&hide=html&layout=compact&theme=dark)](https://github.com/Henreact/)
+[![HenriqueFSouza](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueFSouza&hide=html&layout=compact&theme=dark)](https://github.com/HenriqueFSouza/)
 
 ##
 
- [![Henreact](https://github-readme-stats.vercel.app/api?username=Henreact&theme=dark&show_icons=true)](https://github.com/Henreact/)
+ [![HenriqueFSouza](https://github-readme-stats.vercel.app/api?username=HenriqueFSouza&theme=dark&show_icons=true)](https://github.com/HenriqueFSouza/)
 
 ##
 
