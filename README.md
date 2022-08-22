@@ -1,6 +1,6 @@
 <h2><Strong> Hello There! How´s it going?😃</strong></h2> 
 
-<p>Hi, I´m Henrique Souza, I´m 20 years old and I´m currently studying programming.
+<p>Hi, I´m Henrique Souza, I´m 21 years old and I´m currently studying programming.
 This place is where a spend most of my routine time coding, studying and building new projects</p>
 
 <h3>Technologies and Tools💻</h3>
