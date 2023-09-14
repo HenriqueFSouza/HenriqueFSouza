@@ -26,6 +26,6 @@ This place is where I spend most of my routine time coding, studying, and buildi
 <h3> Connect with me:</h3>
 
 <div>
- <a href="https://www.instagram.com/szhenrique0/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="My Instagram-   account"> </a> 
-<a href='https://www.linkedin.com/in/henrique-souza-794500226/' target="_blank" /> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="likedln-profile"> </a> 
+ <a href="mailto:henriquesouza432@outlook.com"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"> </a> 
+<a href='https://www.linkedin.com/in/henrique-souza-794500226/' target="_blank" /> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedln-profile"> </a> 
 </div>
