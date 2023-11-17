@@ -11,7 +11,7 @@ This place is where I spend most of my routine time coding, studying, and buildi
 
 - Back end:
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,docker,postgres,sequelize,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,docker,postgres,sequelize,supabase,mongodb)](https://skillicons.dev)
 
 <br />
 
