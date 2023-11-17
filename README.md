@@ -1,6 +1,6 @@
 <h2><Strong> Hello There! How´s it going?😃</strong></h2> 
 
-<p>Hi, I´m Henrique Souza and I´m full stack developer.
+<p>Hi, I´m Henrique Souza and I´m Full stack developer.
 This place is where I spend most of my routine time coding, studying, and building new projects</p>
 
 <h3>Technologies and Tools💻</h3>
@@ -14,13 +14,12 @@ This place is where I spend most of my routine time coding, studying, and buildi
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Css-badge">
 
 </div>
-##
+| ------------- | ------------- |
 
+[![HenriqueFSouza](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueFSouza&hide=html&layout=compact&theme=dark)](https://github.com/HenriqueFSouza/) 
+[![HenriqueFSouza](https://github-readme-stats.vercel.app/api?username=HenriqueFSouza&theme=dark&show_icons=true)](https://github.com/HenriqueFSouza/)
 
-[![HenriqueFSouza](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueFSouza&hide=html&layout=compact&theme=dark)](https://github.com/HenriqueFSouza/) | [![HenriqueFSouza](https://github-readme-stats.vercel.app/api?username=HenriqueFSouza&theme=dark&show_icons=true)](https://github.com/HenriqueFSouza/)
-
-
-##
+| ------------- | ------------- |
 
 <h3> Connect with me:</h3>
 
