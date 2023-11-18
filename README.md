@@ -3,7 +3,7 @@
 <p>Hi, I´m 22 years old and I´m currently working as a freelancer Full stack developer.
 This place is where I spend most of my routine time coding, studying, and building new projects</p>
 
-<h3>Technologies and Tools💻</h3>
+<h3>Technologies 💻</h3>
 
 - Front end
 
