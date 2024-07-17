@@ -1,6 +1,6 @@
 <h2><Strong> Hello There!I´m Henrique Francisco and I´m glad you are here.😃</strong></h2> 
 
-<p>Hi, I´m 22 years old and I´m currently working as a freelancer Full stack developer.
+<p>I´m a passionate Full-stack Developer who always aims to code the best solutions.
 This place is where I spend most of my routine time coding, studying, and building new projects</p>
 
 <h3>Technologies 💻</h3>
